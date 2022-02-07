@@ -3,11 +3,11 @@
 #                                                              #
 # Ethan Hinkle                                                 #
 # ECE 351-51                                                   #
-# Lab 2                                                        #
+# Lab 3                                                        #
 # Febuary 1st, 2022                                            #
-# This lab deals with us creating user defined functions and   #
-# using them to create plots of our functions and usderstand   #
-# how time scaling affects the plots and functions             #
+# This lab is built around understanding graphical convolution #
+# by using python to create a function to solve for the        #
+# graphical convolution                                        #
 #                                                              #
 ################################################################
 
